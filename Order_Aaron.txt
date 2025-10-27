@@ -1,0 +1,7 @@
+Order ID,Customer Name,Order Date,City,State
+"AC-2014-156587","Aaron Bergman","07-03-2014","Seattle","Washington"
+"AC-2014-156587","Aaron Bergman","07-03-2014","Seattle","Washington"
+"AC-2014-156587","Aaron Bergman","07-03-2014","Seattle","Washington"
+"AC-2014-152905","Aaron Bergman","18-02-2014","Arlington","Texas"
+"AC-2016-140935","Aaron Bergman","10-11-2016","Oklahoma City","Oklahoma"
+"AC-2016-140935","Aaron Bergman","10-11-2016","Oklahoma City","Oklahoma"
